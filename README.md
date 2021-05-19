@@ -1,6 +1,6 @@
 # ass01
 
-A new Flutter project.
+This is my Simple Flutter App for assignment. This is just a singal page app with flutter.
 
 ## Getting Started
 
